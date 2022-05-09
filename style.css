@@ -37,10 +37,18 @@
     cursor: pointer;
  }
 
- main{
-     background-color: #ffa185;
-     height: 1239px;
- }
+ .mainzera{
+    height: 65%;
+    width: 100%;
+    border:hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #ffa185;
+
+}
+
  .aquarela{
      display: flex;
      align-items: flex-start;
@@ -55,17 +63,9 @@
      font-size: 48px;
  }
 
- img {
-    max-width: 100%;
-    max-height: 100%;
-   }
-   .imagens {
-    height: 200px;
-    width: 200px;
-   }
-
  footer{
+     height: 50px;
      background-color: #129799;
-     height: 80px;
+     
  }
  
