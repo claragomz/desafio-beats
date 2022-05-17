@@ -49,15 +49,21 @@
 
 }
 
- .aquarela{
+.aquarela{
      display: flex;
      align-items: flex-start;
      flex-direction: column;
      height: 20vh;
-     width: 80vh;
+     width: 100vw;
      margin-left: 20px;
       
 }
+
+.vejamais{
+    width: 100vw;
+    height: 5vh;
+}
+
  h2{
      color: #F7F7F7;
      font-size: 48px;
@@ -68,4 +74,28 @@
      background-color: #129799;
      
  }
- 
+
+.imagens{
+     height:vh;  
+     width: 50vw;
+ }
+
+.one{
+width: 20vw;
+  height: 30vh ;
+}
+
+.two{
+    width: 20vw; ;
+    height: 30vh ;
+  }
+
+.tree{
+    width: 20vw; ;
+    height: 30vh ;
+  }
+
+.four{
+    width: 20vw; ;
+    height: 30vh ;
+  }
